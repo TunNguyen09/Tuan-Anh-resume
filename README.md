@@ -1,5 +1,6 @@
 # Tuan-Anh-resume
-# Tiếng việt ở dưới
+
+Tiếng việt ở dưới
 
 Repository for my projects.
 

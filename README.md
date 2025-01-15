@@ -19,8 +19,10 @@ Projects:
 # Tiếng việt
 1. Chương trình tải xuống YouTube - Sử dụng Python và thư viện PyTube để phát triển công cụ tải xuống video và trích xuất siêu dữ liệu. Đã triển khai các chức năng xử lý các định dạng video khác nhau và truy xuất thông tin cơ bản, với một hạn chế đã biết là không hỗ trợ nội dung bị giới hạn độ tuổi.
 
-2. Trò chơi Boggle - Triển khai các thuật toán Tìm kiếm theo chiều sâu (DFS) và quay lùi để xác định tất cả các từ có thể có trong bảng. Áp dụng các kỹ thuật học được trong khóa học để duyệt qua bảng một cách hiệu quả và tìm các tổ hợp từ hợp lệ.
+2. Sử dụng thư viện PyPDF2 để hợp nhất các file pdf. Sử dụng hệ điều hành cho các thao tác tệp và sys cho chức năng dành riêng cho hệ thống. Đã viết tập lệnh Python để tự động hóa quá trình hợp nhất PDF, nâng cao hiệu quả. Chương trình sẽ gộp các tài liệu pdf ở trong thư mục.
 
-3. Trình phát nhạc - Phát triển một ứng dụng dựa trên Java toàn diện để quản lý và phát nội dung âm thanh, bao gồm bài hát, podcast và sách nói. Đọc thông tin từ các tệp sau đó triển khai các chức năng cốt lõi bằng cách sử dụng các bộ sưu tập ArrayList để lưu trữ và truy xuất hiệu quả, và tích hợp các cơ chế xử lý ngoại lệ mạnh mẽ. Thiết kế một giao diện người dùng đơn giản nhưng hiệu quả trong terminal.
+3. Trò chơi Boggle - Triển khai các thuật toán Tìm kiếm theo chiều sâu (DFS) và quay lùi để xác định tất cả các từ có thể có trong bảng. Áp dụng các kỹ thuật học được trong khóa học để duyệt qua bảng một cách hiệu quả và tìm các tổ hợp từ hợp lệ.
 
-4. Dự án Scrum - Hợp tác trong một dự án nhóm để mô phỏng các phương pháp Scrum, bao gồm phân chia công việc và phân bổ điểm câu chuyện. Phát triển một hệ thống cơ sở dữ liệu đơn giản và triển khai chức năng để trích xuất và hiển thị thông tin từ tệp CSV. Tạo một giao diện người dùng thân thiện với các tính năng để chỉnh sửa cơ sở dữ liệu.
+4. Trình phát nhạc - Phát triển một ứng dụng dựa trên Java toàn diện để quản lý và phát nội dung âm thanh, bao gồm bài hát, podcast và sách nói. Đọc thông tin từ các tệp sau đó triển khai các chức năng cốt lõi bằng cách sử dụng các bộ sưu tập ArrayList để lưu trữ và truy xuất hiệu quả, và tích hợp các cơ chế xử lý ngoại lệ mạnh mẽ. Thiết kế một giao diện người dùng đơn giản nhưng hiệu quả trong terminal.
+
+5. Dự án Scrum - Hợp tác trong một dự án nhóm để mô phỏng các phương pháp Scrum, bao gồm phân chia công việc và phân bổ điểm câu chuyện. Phát triển một hệ thống cơ sở dữ liệu đơn giản và triển khai chức năng để trích xuất và hiển thị thông tin từ tệp CSV. Tạo một giao diện người dùng thân thiện với các tính năng để chỉnh sửa cơ sở dữ liệu.

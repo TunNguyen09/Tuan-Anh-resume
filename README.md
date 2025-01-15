@@ -17,7 +17,7 @@ Projects:
 
 
 # Tiếng việt
-1. Trình tải xuống YouTube - Sử dụng Python và thư viện PyTube để phát triển công cụ tải xuống video và trích xuất siêu dữ liệu. Đã triển khai các chức năng xử lý các định dạng video khác nhau và truy xuất thông tin cơ bản, với một hạn chế đã biết là không hỗ trợ nội dung bị giới hạn độ tuổi.
+1. Chương trình tải xuống YouTube - Sử dụng Python và thư viện PyTube để phát triển công cụ tải xuống video và trích xuất siêu dữ liệu. Đã triển khai các chức năng xử lý các định dạng video khác nhau và truy xuất thông tin cơ bản, với một hạn chế đã biết là không hỗ trợ nội dung bị giới hạn độ tuổi.
 
 2. Trò chơi Boggle - Triển khai các thuật toán Tìm kiếm theo chiều sâu (DFS) và quay lùi để xác định tất cả các từ có thể có trong bảng. Áp dụng các kỹ thuật học được trong khóa học để duyệt qua bảng một cách hiệu quả và tìm các tổ hợp từ hợp lệ.
 
